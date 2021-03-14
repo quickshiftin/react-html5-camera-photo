@@ -27,3 +27,4 @@ yarn-error.log*
 
 # External libs
 src/jslib-html5-camera-photo/
+.c9
