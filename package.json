@@ -1,6 +1,6 @@
 {
   "name": "react-html5-camera-photo",
-  "version": "1.4.2",
+  "version": "1.4.3-beta0",
   "description": "React.js HTML5 Camera Photo",
   "main": "build/index.js",
   "scripts": {
@@ -35,7 +35,7 @@
   "homepage": "https://mabelanger.github.io/react-html5-camera-photo/",
   "license": "MIT",
   "dependencies": {
-    "jslib-html5-camera-photo": "github:quickshiftin/jslib-html5-camera-photo#stable"
+    "jslib-html5-camera-photo": "github:quickshiftin/jslib-html5-camera-photo#getUserMedia-hardening"
   },
   "devDependencies": {
     "autoprefixer": "7.1.6",
